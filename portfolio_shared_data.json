@@ -172,6 +172,11 @@
           "name": "Composer",
           "class": "devicon-composer-line",
           "level": "60"
+        },
+        {
+          "name": "Grafana",
+          "class": "devicon-grafana-original",
+          "level": "60"
         }
       ]
     }
