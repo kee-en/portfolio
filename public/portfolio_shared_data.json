@@ -177,6 +177,11 @@
           "name": "Grafana",
           "class": "devicon-grafana-original",
           "level": "60"
+        },
+        {
+          "name": "Markdown",
+          "class": "devicon-markdown-original",
+          "level": "60"
         }
       ]
     }
