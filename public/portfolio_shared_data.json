@@ -209,6 +209,11 @@
         "name": "PostgreSQL",
         "class": "devicon-postgresql-plain",
         "level": "60"
+      },
+      {
+        "name": "Redis",
+        "class": "devicon-redis-plain",
+        "level": "60"
       }
     ]
   }
