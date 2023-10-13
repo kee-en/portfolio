@@ -118,9 +118,29 @@
     ],
     "experience": [
       {
+        "company": "Macquarie Cloud Services (Macquarie Telecom Group)",
+        "title": "Azure Automation Engineer",
+        "years": "07.2023 - Present",
+        "mainTech": [
+          "Azure",
+          "Python"
+        ],
+        "technologies": [
+          "Azure",
+          "Python",
+          "Ansible",
+          "Kubernetes",
+          "Linux",
+          "Docker",
+          "Jira",
+          ".NET",
+          "C#"
+        ]
+      },
+      {
         "company": "Samsung Research & Development Philippines",
         "title": "Dev Ops Engineer",
-        "years": "01.2022 - present",
+        "years": "01.2022 - 07.2023",
         "mainTech": [
           "AWS"
         ],
