@@ -152,6 +152,11 @@
           "name": "Azure",
           "class": "devicon-azure-plain",
           "level": "60"
+        },
+        {
+          "name": "Ansible",
+          "class": "devicon-ansible-plain",
+          "level": "60"
         }
       ]
     }
