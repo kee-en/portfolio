@@ -182,6 +182,11 @@
           "name": "Markdown",
           "class": "devicon-markdown-original",
           "level": "60"
+        },
+        {
+          "name": "Numpy",
+          "class": "devicon-numpy-original",
+          "level": "60"
         }
       ]
     }
