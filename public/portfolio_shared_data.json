@@ -1,193 +1,205 @@
 {
-    "basic_info": {
-      "name": "Kien Dolorfo",
-      "titles": [ "Back-end Developer", "Dev Ops Engineer", "Dev Team lead", "Web Developer", "Database Administrator", "Server Administrator" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/kee-en",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com/dkee_en/",
-          "class": "fab fa-instagram"
-        }
-      ],
-      "image": "ProfilePic.png"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "PHP",
-          "class": "devicon-php-plain",
-          "level": "95"
-        },
-        {
-          "name": "Codeigniter",
-          "class": "devicon-codeigniter-plain",
-          "level": "95"
-        },
-        {
-          "name": "MariaDB/MySQL",
-          "class": "devicon-mysql-plain",
-          "level": "80"
-        },
-        {
-          "name": "Javascript",
-          "class": "devicon-javascript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JQuery",
-          "class": "devicon-jquery-plain",
-          "level": "70"
-        },
-        {
-          "name": "HTML5",
-          "class": "devicon-html5-plain",
-          "level": "75"
-        },
-        {
-          "name": "CSS3",
-          "class": "devicon-css3-plain",
-          "level": "85"
-        },
-        {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "65"
-        },
-        {
-          "name": "Linux",
-          "class": "devicon-linux-plain",
-          "level": "60"
-        },
-        {
-          "name": "AWS",
-          "class": "devicon-amazonwebservices-plain",
-          "level": "60"
-        },
-        {
-          "name": "Jenkins",
-          "class": "devicon-jenkins-plain",
-          "level": "60"
-        },
-        {
-          "name": "Jira",
-          "class": "devicon-jira-plain",
-          "level": "60"
-        },
-        {
-          "name": "Kubernetes",
-          "class": "devicon-kubernetes-plain",
-          "level": "60"
-        },
-        {
-          "name": "Circle-CI",
-          "class": "devicon-circleci-plain",
-          "level": "60"
-        },
-        {
-          "name": "Docker",
-          "class": "devicon-docker-plain",
-          "level": "60"
-        },
-        {
-          "name": "Django",
-          "class": "devicon-django-plain",
-          "level": "60"
-        },
-        {
-          "name": "Apache",
-          "class": "devicon-apache-plain",
-          "level": "60"
-        },
-        {
-          "name": "Nginx",
-          "class": "devicon-nginx-plain",
-          "level": "60"
-        },
-        {
-          "name": "Git",
-          "class": "devicon-git-plain",
-          "level": "60"
-        },
-        {
-          "name": "Github",
-          "class": "devicon-github-plain",
-          "level": "60"
-        },
-        {
-          "name": "Jupyter",
-          "class": "devicon-jupyter-plain",
-          "level": "60"
-        },
-        {
-          "name": "NodeJS",
-          "class": "devicon-nodejs-plain",
-          "level": "60"
-        },
-        {
-          "name": "NPM",
-          "class": "devicon-npm-original-wordmark",
-          "level": "60"
-        },
-        {
-          "name": "AngularJS",
-          "class": "devicon-angularjs-plain",
-          "level": "60"
-        },
-        {
-          "name": "ReactJS",
-          "class": "devicon-react-plain",
-          "level": "60"
-        },
-        {
-          "name": "Anaconda",
-          "class": "devicon-anaconda-plain",
-          "level": "60"
-        },
-        {
-          "name": "Azure",
-          "class": "devicon-azure-plain",
-          "level": "60"
-        },
-        {
-          "name": "Ansible",
-          "class": "devicon-ansible-plain",
-          "level": "60"
-        },
-        {
-          "name": "Bash",
-          "class": "devicon-bash-plain",
-          "level": "60"
-        },
-        {
-          "name": "Confluence",
-          "class": "devicon-confluence-original",
-          "level": "60"
-        },
-        {
-          "name": "Composer",
-          "class": "devicon-composer-line",
-          "level": "60"
-        },
-        {
-          "name": "Grafana",
-          "class": "devicon-grafana-original",
-          "level": "60"
-        },
-        {
-          "name": "Markdown",
-          "class": "devicon-markdown-original",
-          "level": "60"
-        },
-        {
-          "name": "Numpy",
-          "class": "devicon-numpy-original",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Kien Dolorfo",
+    "titles": [
+      "Back-end Developer",
+      "Dev Ops Engineer",
+      "Dev Team lead",
+      "Web Developer",
+      "Database Administrator",
+      "Server Administrator"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/kee-en",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dkee_en/",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "ProfilePic.png"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "PHP",
+        "class": "devicon-php-plain",
+        "level": "95"
+      },
+      {
+        "name": "Codeigniter",
+        "class": "devicon-codeigniter-plain",
+        "level": "95"
+      },
+      {
+        "name": "MariaDB/MySQL",
+        "class": "devicon-mysql-plain",
+        "level": "80"
+      },
+      {
+        "name": "Javascript",
+        "class": "devicon-javascript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JQuery",
+        "class": "devicon-jquery-plain",
+        "level": "70"
+      },
+      {
+        "name": "HTML5",
+        "class": "devicon-html5-plain",
+        "level": "75"
+      },
+      {
+        "name": "CSS3",
+        "class": "devicon-css3-plain",
+        "level": "85"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "65"
+      },
+      {
+        "name": "Linux",
+        "class": "devicon-linux-plain",
+        "level": "60"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "60"
+      },
+      {
+        "name": "Jenkins",
+        "class": "devicon-jenkins-plain",
+        "level": "60"
+      },
+      {
+        "name": "Jira",
+        "class": "devicon-jira-plain",
+        "level": "60"
+      },
+      {
+        "name": "Kubernetes",
+        "class": "devicon-kubernetes-plain",
+        "level": "60"
+      },
+      {
+        "name": "Circle-CI",
+        "class": "devicon-circleci-plain",
+        "level": "60"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "60"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "60"
+      },
+      {
+        "name": "Apache",
+        "class": "devicon-apache-plain",
+        "level": "60"
+      },
+      {
+        "name": "Nginx",
+        "class": "devicon-nginx-plain",
+        "level": "60"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "60"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-plain",
+        "level": "60"
+      },
+      {
+        "name": "Jupyter",
+        "class": "devicon-jupyter-plain",
+        "level": "60"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain",
+        "level": "60"
+      },
+      {
+        "name": "NPM",
+        "class": "devicon-npm-original-wordmark",
+        "level": "60"
+      },
+      {
+        "name": "AngularJS",
+        "class": "devicon-angularjs-plain",
+        "level": "60"
+      },
+      {
+        "name": "ReactJS",
+        "class": "devicon-react-plain",
+        "level": "60"
+      },
+      {
+        "name": "Anaconda",
+        "class": "devicon-anaconda-plain",
+        "level": "60"
+      },
+      {
+        "name": "Azure",
+        "class": "devicon-azure-plain",
+        "level": "60"
+      },
+      {
+        "name": "Ansible",
+        "class": "devicon-ansible-plain",
+        "level": "60"
+      },
+      {
+        "name": "Bash",
+        "class": "devicon-bash-plain",
+        "level": "60"
+      },
+      {
+        "name": "Confluence",
+        "class": "devicon-confluence-original",
+        "level": "60"
+      },
+      {
+        "name": "Composer",
+        "class": "devicon-composer-line",
+        "level": "60"
+      },
+      {
+        "name": "Grafana",
+        "class": "devicon-grafana-original",
+        "level": "60"
+      },
+      {
+        "name": "Markdown",
+        "class": "devicon-markdown-original",
+        "level": "60"
+      },
+      {
+        "name": "Numpy",
+        "class": "devicon-numpy-original",
+        "level": "60"
+      },
+      {
+        "name": "Pandas",
+        "class": "devicon-pandas-original",
+        "level": "60"
+      }
+    ]
   }
+}
