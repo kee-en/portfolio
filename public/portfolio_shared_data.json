@@ -214,6 +214,11 @@
         "name": "Redis",
         "class": "devicon-redis-plain",
         "level": "60"
+      },
+      {
+        "name": "SSH",
+        "class": "devicon-ssh-original-wordmark",
+        "level": "60"
       }
     ]
   }
