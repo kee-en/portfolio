@@ -199,6 +199,11 @@
         "name": "Pandas",
         "class": "devicon-pandas-original",
         "level": "60"
+      },
+      {
+        "name": "Podman",
+        "class": "devicon-podman-plain",
+        "level": "60"
       }
     ]
   }
