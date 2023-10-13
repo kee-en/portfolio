@@ -164,6 +164,11 @@
           "level": "60"
         },
         {
+          "name": "Confluence",
+          "class": "devicon-confluence-original",
+          "level": "60"
+        },
+        {
           "name": "Composer",
           "class": "devicon-composer-line",
           "level": "60"
