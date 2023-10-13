@@ -204,6 +204,11 @@
         "name": "Podman",
         "class": "devicon-podman-plain",
         "level": "60"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
       }
     ]
   }
