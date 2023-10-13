@@ -219,6 +219,11 @@
         "name": "SSH",
         "class": "devicon-ssh-original-wordmark",
         "level": "60"
+      },
+      {
+        "name": "Terraform",
+        "class": "devicon-terraform-plain",
+        "level": "60"
       }
     ]
   }
