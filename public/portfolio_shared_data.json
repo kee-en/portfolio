@@ -157,6 +157,11 @@
           "name": "Ansible",
           "class": "devicon-ansible-plain",
           "level": "60"
+        },
+        {
+          "name": "Bash",
+          "class": "devicon-bash-plain",
+          "level": "60"
         }
       ]
     }
