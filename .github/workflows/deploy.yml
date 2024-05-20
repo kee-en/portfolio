@@ -16,22 +16,20 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '12' # Use the Node.js version your project requires
+        node-version: '12' # Use Node.js version 12
 
     - name: Install dependencies
       run: npm install
 
     - name: Update Browserslist DB
-      run: npx update-browserslist-db@latest
+      run: npx browserslist@latest --update-db
 
     - name: Fix color-adjust warning
       run: |
-        npx browserslist@latest --update-db
         find ./node_modules -type f -name "*.css" -exec sed -i 's/color-adjust/print-color-adjust/g' {} +
 
     - name: Build the project
-      run: |
-        CI=false npm run build
+      run: CI=false npm run build
 
     - name: Deploy to GitHub Pages
       run: npm run deploy
