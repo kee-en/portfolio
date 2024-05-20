@@ -89,7 +89,9 @@
         "startDate": "2022",
         "description": "My currently working project as a Dev Ops Engineer in Samsung Philippines. Samsung Free is your go-to destination to immediately dive into the premium content that matters to you, at no cost. It’s your curated entertainment center where you can seamlessly read breaking news, listen to top-rated podcasts, watch free TV and play games instant.",
         "images": [
-          "images/portfolio/samsung/SamsungFreeApp.png"
+          "images/portfolio/samsung/SamsungFreeApp.png",
+          "images/portfolio/samsung/SamsungFreeApp2.png",
+          "images/portfolio/samsung/SamsungFreeApp3.png"
         ],
         "url": "https://www.samsung.com/us/apps/samsung-free/",
         "technologies": [
