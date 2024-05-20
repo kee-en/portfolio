@@ -28,6 +28,11 @@ jobs:
       run: |
         find ./node_modules -type f -name "*.css" -exec sed -i 's/color-adjust/print-color-adjust/g' {} +
 
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
     - name: Build the project
       run: CI=false npm run build
 
