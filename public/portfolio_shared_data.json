@@ -106,9 +106,9 @@
         "level": "60"
       },
       {
-        "name": "DjangoRestFramework",
+        "name": "Django Rest",
         "class": "devicon-djangorest-plain",
-        "level": "80"
+        "level": "60"
       },
       {
         "name": "Apache",
