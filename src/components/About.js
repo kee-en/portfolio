@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import ciIcon from "@iconify/icons-logos/codeigniter"
-import jsIcon from "@iconify/icons-logos/javascript"
-import mariadbIcon from "@iconify/icons-logos/mariadb"
+import djIcon from "@iconify/icons-logos/django"
+import pyIcon from "@iconify/icons-logos/python"
+import psqlIcon from "@iconify/icons-logos/postgresql"
 
 class About extends Component {
   render() {
@@ -31,15 +31,15 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={ciIcon}
+                    icon={djIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={jsIcon}
+                    icon={pyIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={mariadbIcon}
+                    icon={psqlIcon}
                     style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
