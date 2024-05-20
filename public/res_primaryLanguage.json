@@ -152,26 +152,22 @@
     ],
     "experience": [
       {
-        "company": "Macquarie Cloud Services (Macquarie Telecom Group)",
-        "title": "Azure Automation Engineer/Software Engineer",
-        "years": "07.2023 - Present",
+        "company": "Springboard Philippines",
+        "title": "Developer",
+        "years": "05.2018 - 10.2021",
         "mainTech": [
-          "Azure",
-          "Python",
-          "Django",
-          "DjangoRestFrameWork",
-          "PostgreSQL"
+          "CodeIgniter",
+          "MariaDB",
+          "JavaScript"
         ],
         "technologies": [
-          "Azure",
-          "Python",
-          "Ansible",
-          "Kubernetes",
-          "Linux",
-          "Docker",
-          "Jira",
-          ".NET",
-          "Django"
+          "PHP",
+          "Codeigniter",
+          "MariaDB/MySQL",
+          "JavaScript",
+          "JQuery",
+          "HTML5",
+          "CSS3"
         ]
       },
       {
@@ -195,22 +191,26 @@
         ]
       },
       {
-        "company": "Springboard Philippines",
-        "title": "Developer",
-        "years": "05.2018 - 10.2021",
+        "company": "Macquarie Cloud Services (Macquarie Telecom Group)",
+        "title": "Azure Automation Engineer/Software Engineer",
+        "years": "07.2023 - Present",
         "mainTech": [
-          "CodeIgniter",
-          "MariaDB",
-          "JavaScript"
+          "Azure",
+          "Python",
+          "Django",
+          "DjangoRestFrameWork",
+          "PostgreSQL"
         ],
         "technologies": [
-          "PHP",
-          "Codeigniter",
-          "MariaDB/MySQL",
-          "JavaScript",
-          "JQuery",
-          "HTML5",
-          "CSS3"
+          "Azure",
+          "Python",
+          "Ansible",
+          "Kubernetes",
+          "Linux",
+          "Docker",
+          "Jira",
+          ".NET",
+          "Django"
         ]
       }
     ]
