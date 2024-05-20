@@ -104,8 +104,8 @@
             "name": "Jenkins"
           },
           {
-            "class": "devicon-docker-plain",
-            "name": "Docker"
+            "class": "devicon-terraform-plain",
+            "name": "Terraform"
           },
           {
             "class": "devicon-jira-plain",
@@ -114,6 +114,38 @@
           {
             "class": "devicon-kubernetes-plain",
             "name": "Kubernetes"
+          }
+        ]
+      },
+      {
+        "title": "Samsung Cloud",
+        "startDate": "2023",
+        "description": "My Second Project as a DevOps in Samsung Research Philippines, mainly doing a new solution to gather and monitor the services and create a automation to have a security on the services and infrastructure that we use.",
+        "images": [
+          "images/portfolio/samsung/SamsungCloud.png",
+          "images/portfolio/samsung/SamsungCloud2.png"
+        ],
+        "url": "https://www.samsung.com/us/support/owners/app/samsung-cloud",
+        "technologies": [
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-jenkins-plain",
+            "name": "Jenkins"
+          },
+          {
+            "class": "devicon-terraform-plain",
+            "name": "Terraform"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-grafana-plain",
+            "name": "Grafana"
           }
         ]
       }
