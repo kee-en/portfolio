@@ -172,7 +172,7 @@
       },
       {
         "name": "Confluence",
-        "class": "devicon-confluence-original",
+        "class": "devicon-confluence-plain",
         "level": "60"
       },
       {
@@ -182,7 +182,7 @@
       },
       {
         "name": "Grafana",
-        "class": "devicon-grafana-original",
+        "class": "devicon-grafana-plain",
         "level": "60"
       },
       {
@@ -192,12 +192,12 @@
       },
       {
         "name": "Numpy",
-        "class": "devicon-numpy-original",
+        "class": "devicon-numpy-plain",
         "level": "60"
       },
       {
         "name": "Pandas",
-        "class": "devicon-pandas-original",
+        "class": "devicon-pandas-plain",
         "level": "60"
       },
       {
