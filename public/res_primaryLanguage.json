@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Kien Dolorfo. Back-end Developer and Dev Ops Engineer :) I'm currently working at Samsung Research & Development Philippines as Dev Ops Engineer using tools like AWS, Docker, Jerkins and Datadog for monitoring. I'm also a Back-End Developer in Web Development using framework/stack like CodeIgniter, JavaScript, and Python.If you want to connect, you can reach me at my email kiendolorfo@gmail.com. Thank you 💜",
+      "description": "👋 I'm Kien Dolorfo. Software and DevOps Engineer :) Currently, I'm making strides at Macquarie Cloud Services as an Azure Automation Engineer and Software Engineer. My toolkit includes Azure, Python, Django, and PostgresDB. Previously, I honed my skills at Samsung Research & Development Philippines, where I served as a Dev Ops Engineer leveraging tools like AWS, Docker, Jenkins, and Datadog for monitoring. Additionally, I flexed my prowess as a Back-End Developer in Web Development, employing frameworks/stacks such as CodeIgniter, JavaScript, and Python. If you'd like to connect, drop me a line at kiendolorfo@gmail.com. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -119,11 +119,14 @@
     "experience": [
       {
         "company": "Macquarie Cloud Services (Macquarie Telecom Group)",
-        "title": "Azure Automation Engineer",
+        "title": "Azure Automation Engineer/Software Engineer",
         "years": "07.2023 - Present",
         "mainTech": [
           "Azure",
-          "Python"
+          "Python",
+          "Django",
+          "DjangoRestFrameWork",
+          "PostgreSQL"
         ],
         "technologies": [
           "Azure",
@@ -134,12 +137,12 @@
           "Docker",
           "Jira",
           ".NET",
-          "C#"
+          "Django"
         ]
       },
       {
         "company": "Samsung Research & Development Philippines",
-        "title": "Dev Ops Engineer",
+        "title": "DevOps Engineer",
         "years": "01.2022 - 07.2023",
         "mainTech": [
           "AWS"
