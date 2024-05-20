@@ -2,9 +2,9 @@
   "basic_info": {
     "name": "Kien Dolorfo",
     "titles": [
-      "Back-end Developer",
-      "Dev Ops Engineer",
-      "Dev Team lead",
+      "BackEnd Developer",
+      "DevOps Engineer",
+      "Software Engineer",
       "Web Developer",
       "Database Administrator",
       "Server Administrator"
@@ -91,8 +91,8 @@
         "level": "60"
       },
       {
-        "name": "Circle-CI",
-        "class": "devicon-circleci-plain",
+        "name": "Github Actions",
+        "class": "devicon-githubactions-plain",
         "level": "60"
       },
       {
