@@ -145,7 +145,10 @@
         "title": "DevOps Engineer",
         "years": "01.2022 - 07.2023",
         "mainTech": [
-          "AWS"
+          "AWS",
+          "Python",
+          "Kubernetes",
+          "DataDog"
         ],
         "technologies": [
           "AWS",
@@ -162,7 +165,9 @@
         "title": "Developer",
         "years": "05.2018 - 10.2021",
         "mainTech": [
-          "PHP"
+          "CodeIgniter",
+          "MariaDB",
+          "JavaScript"
         ],
         "technologies": [
           "PHP",
