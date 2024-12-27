@@ -43,6 +43,13 @@ jobs:
     - name: Build the project
       run: CI=false npm run build
 
+    - name: Create a new tag
+      id: tag
+      run: |
+        TAG_NAME=$(date +'%Y%m%d%H%M%S')
+        git tag $TAG_NAME
+        git push origin $TAG_NAME
+
     - name: Deploy to GitHub Pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
