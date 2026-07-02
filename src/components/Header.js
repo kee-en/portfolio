@@ -32,7 +32,7 @@ class Header extends Component {
 
     const HeaderTitleTypeAnimation = React.memo( () => {
       return <Typical className="title-styles" steps={this.titles} loop={50} />
-    }, () => true);
+    }, (props, prevProp) => true);
 
     return (
       <header id="home" style={{ height: window.innerHeight - 90, display: 'block' }}>
